@@ -22,8 +22,7 @@ VisionDesk is an AI + Computer Vision based smart desktop system that uses camer
 - Mediapipe ✋
 - TensorFlow Lite 🤖
 - Pygame (optional game features)
-- Node.js (if backend used)
-- HTML/CSS/JS (frontend dashboard)
+
 
 ---
 
